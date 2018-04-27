@@ -11,4 +11,4 @@ phases:
       - mvn clean package
 artifacts:
   files:
-    - target/servlet-0.0.1-SNAPSHOT.war
+    - target/servlets.war
