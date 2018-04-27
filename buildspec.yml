@@ -11,4 +11,4 @@ phases:
       - mvn clean package
 artifacts:
   files:
-    - target/codePipeLine-0.0.1-SNAPSHOT.war
+    - target/servlet-0.0.1-SNAPSHOT.war
