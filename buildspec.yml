@@ -11,4 +11,4 @@ phases:
       - mvn clean package
 artifacts:
   files:
-    - target/jenkins-predemo-0.0.1-SNAPSHOT.war
+    - target/codePipeLine-0.0.1-SNAPSHOT.war
